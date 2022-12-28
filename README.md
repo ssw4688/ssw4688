@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요! 백엔드 개발자 서승우입니다. 잘부탁드리겠습니다! 👋
 
 <!--
 **ssw4688/ssw4688** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
