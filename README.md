@@ -7,6 +7,7 @@
 👦 서승우 <br>
 👶 1997.01.16 <br>
 📞 010-4796-4688 <br>
+❤️ ENFJ
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tmddn4688@gmail.com)](mailto:tmddn4688@gmail.com) <span><a href="https://www.notion.so/efbf2d1ffefb4adba9f766a63f4977f1"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
 
